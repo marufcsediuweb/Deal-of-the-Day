@@ -1,0 +1,15 @@
+.custom-top-product{
+        padding: 2px;
+        background-clip: content-box;
+        background-color: #F0D500;
+        border: 2px dashed #F0D500;
+    }
+    .custom-top-product:hover{
+        border-style: solid;
+    }
+    .custom-top-product .top-product-label{
+        font-size: 16px;
+        padding-left: 21px;
+        color:#fff;
+        display: inline;
+    }
